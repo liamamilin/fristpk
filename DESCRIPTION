@@ -1,0 +1,17 @@
+Package: fristpk
+Type: Package
+Title: The function of my daily work
+Version: 0.1
+Author: person("Liam","lin",email="15527504293@163.com",role=c("aut","cre"))
+Description: Some functions used daily work, including balanced data, woe transform,mlr modeling
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: unbalanced,
+    Information,
+    woe,
+    scorecard,
+    tidyverse,
+    caret,
+    mlr
+RoxygenNote: 6.1.0
