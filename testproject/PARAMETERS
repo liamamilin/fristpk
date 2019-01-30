@@ -1,0 +1,5 @@
+RSuiteVersion: 0.33.246
+RVersion: 3.4
+Project: testproject
+Repositories: MRAN[2018-10-12]
+Artifacts: config_templ.txt
